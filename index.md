@@ -6,9 +6,9 @@ profile_picture:
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
-</p>
+Hi, welcome to my webpage.
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+I am Marvin, both a pharmacy and biostatistics student.
+
+I am currently a pharmacy resident at CHU Grenoble Alpes and a biostatistics intern at TIMC lab. I am in interested in Deep Learning and Survival Analysis 
 </p>
