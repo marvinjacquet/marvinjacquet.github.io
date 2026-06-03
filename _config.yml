@@ -1,19 +1,24 @@
-title: Bay Jekyll Theme
-description: Marvin Jacquet's personnal website.
-baseurl: "/"
+title: "Marvin Jacquet - personal website"
+description: >-
+  
+baseurl: ""
 url: "https://marvinjacquet.github.io"
 og_image: /assets/img/profile-pic.jpg
-google_analytics: "UA-121636368-3"
+google_analytics: ""
+remote_theme: eliottvincent/bay
 
 header:
   pages:
-    - name: Home
-      slug: /
     - name: CV
+      slug: /cv
     - name: Publications
-    - name: Talks
-    - name: Teaching
+      slug: /publications
+    - name: Congrès
+      slug: /congres
+    - name: Enseignement
+      slug: /enseignement
     - name: Blog
+      slug: /blog
 
 footer:
   show_powered_by: true
@@ -21,17 +26,17 @@ footer:
     - type: email
       name: Email
       value: yourmail@domain.com
-    - type: wechat
-      value: YourWeChatUsername
-      link: "#"
   follow:
-
     - type: linkedin
       name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: https://www.linkedin.com/in/marvin-jacquet-2059a8182/
     - type: github
       name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://https://github.com/marvinjacquet
+    - name: ORCID
+      link: https://orcid.org/0000-0002-9890-7908
+    - name: RGate
+      link: https://www.researchgate.net/profile/Marvin-Jacquet
 
 # Build settings
 markdown: kramdown
