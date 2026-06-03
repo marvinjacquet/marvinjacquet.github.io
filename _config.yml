@@ -1,7 +1,7 @@
 title: "Marvin Jacquet - personal website"
 description: >-
   
-baseurl: ""
+baseurl: "/bay"
 url: "https://marvinjacquet.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: ""
