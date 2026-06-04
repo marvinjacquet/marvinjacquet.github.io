@@ -183,3 +183,5 @@ slug: /publications
       </div>
     </div>
   </div>
+
+</div>
