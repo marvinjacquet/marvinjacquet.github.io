@@ -87,7 +87,6 @@ slug: /publications
     font-weight: 500;
     color: #333;
     text-decoration: none;
-    border-bottom: 1px solid #ddd;
     transition: border-color 0.2s;
     margin-left: auto;
   }
@@ -99,7 +98,7 @@ slug: /publications
   .pub-footnotes {
     margin-top: 8px;
     font-size: 0.85em;
-    color: #555;
+    color: #999;
   }
 
   .pub-footnotes div {
@@ -145,19 +144,6 @@ slug: /publications
 
 
 <!-- ═══ 2023 ═══ -->
-  <div class="pub-year-group">
-    <div class="pub-year">2023</div>
-
-    <div class="pub-card">
-      <div class="pub-title">Early Exposure of Kidney Transplant Recipients with Chronic Antibody-Mediated Rejection to Tocilizumab—A Preliminary Study</div>
-      <div class="pub-authors">Arrive C<sup>*</sup>, <span class="me">Jacquet M<sup>*</sup></span>, Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F</div>
-      <div class="pub-meta-row">
-        <span class="pub-venue">Journal of Clinical Medicine</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper ↗</a>
-      </div>
-    </div>
-
-<!-- ═══ 2023 ═══ -->
 
   <div class="pub-year-group">
     <div class="pub-year">2023</div>
@@ -189,7 +175,7 @@ slug: /publications
       <div class="pub-title">MALDI-TOF MS in a Medical Mycology Laboratory: On Stage and Backstage</div>
       <div class="pub-authors">Robert MG, Cornet M, Hennebique A, Rasamoelina T, Caspar Y, Ponderand L, Bidart M, Durand H, <span class="me">Jacquet M*</span>, Garnaud C, Maubon D</div>
       <div class="pub-meta-row">
-        <span class="pub-venue">Journal of Clinical Medicine</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper ↗</a>
+        <span class="pub-venue">Microorganisms</span>
+        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">paper ↗</a>
       </div>
     </div>
