@@ -13,10 +13,10 @@ header:
       slug: /cv
     - name: Publications
       slug: /publications
-    - name: Congres
-      slug: /congres
-    - name: Enseignement
-      slug: /enseignement
+    - name: Conferences
+      slug: /conferences
+    - name: Teaching
+      slug: /teaching
     - name: Blog
       slug: /blog
 
@@ -27,18 +27,20 @@ footer:
       name: Email
       value: yourmail@domain.com
   follow:
-    - type: linkedin
-      name: LinkedIn
-      link: https://www.linkedin.com/in/marvin-jacquet-2059a8182/
+    - type: researchgate
+      name: Researchgate
+      link: https://www.researchgate.net/profile/Marvin-Jacquet
     - type: github
       name: GitHub
       link: https://github.com/marvinjacquet/
     - type: orcid
       name: ORCID
       link: https://orcid.org/0000-0002-9890-7908
-    - type: researchgate
-      name: Researchgate
-      link: https://www.researchgate.net/profile/Marvin-Jacquet
+    - type: linkedin
+      name: LinkedIn
+      link: https://www.linkedin.com/in/marvin-jacquet-2059a8182/
+
+
 
 # Build settings
 markdown: kramdown
