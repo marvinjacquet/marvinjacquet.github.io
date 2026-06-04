@@ -92,7 +92,7 @@ slug: /publications
   }
 
   .pub-link:hover {
-    border-color: #333;
+    border-color: underline;
   }
 
   .pub-footnotes {
@@ -157,7 +157,7 @@ slug: /publications
       <div class="pub-authors">
         Arrive C<sup><a href="#fn1">*</a></sup>, 
         <span class="me">Jacquet M<sup><a href="#fn1">*</a></sup></span>, 
-        Gautier-Veyret E,Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
+        Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
       </div>
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
