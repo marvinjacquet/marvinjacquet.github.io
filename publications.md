@@ -87,18 +87,19 @@ slug: /publications
     font-weight: 500;
     color: #333;
     text-decoration: none;
+    border-bottom: 1px solid #ddd;
     transition: border-color 0.2s;
     margin-left: auto;
   }
 
   .pub-link:hover {
-    border-color: underline;
+    border-color: #333;
   }
 
   .pub-footnotes {
     margin-top: 8px;
     font-size: 0.85em;
-    color: #999;
+    color: #555;
   }
 
   .pub-footnotes div {
@@ -155,7 +156,7 @@ slug: /publications
       <div class="pub-authors">
         Arrive C<sup><a href="#fn1">*</a></sup>, 
         <span class="me">Jacquet M<sup><a href="#fn1">*</a></sup></span>, 
-        Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
+        Gautier-Veyret E,Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
       </div>
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
