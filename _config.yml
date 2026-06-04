@@ -5,6 +5,7 @@ baseurl: ""
 url: "https://marvinjacquet.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: ""
+theme: bay_jekyll_theme
 
 header:
   pages:

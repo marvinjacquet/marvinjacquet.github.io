@@ -5,7 +5,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 gem "jekyll", "~> 4.3.4"
-gem "jekyll-sass-converter", "~> 3.0"
+gem "bay_jekyll_theme"
 
 # Plugins
 group :jekyll_plugins do
