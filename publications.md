@@ -127,7 +127,6 @@ slug: /publications
         <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">paper ↗</a>
       </div>
     </div>
-  </div>
 
 
 <!-- ═══ 2024 ═══ -->
@@ -142,7 +141,6 @@ slug: /publications
         <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">paper ↗</a>
       </div>
     </div>
-  </div>
 
 
 <!-- ═══ 2023 ═══ -->
@@ -168,7 +166,6 @@ slug: /publications
         <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
       </div>
     </div>
-  </div>
 
 <!-- ═══ 2021 ═══ -->
   <div class="pub-year-group">
@@ -182,6 +179,3 @@ slug: /publications
         <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">paper ↗</a>
       </div>
     </div>
-  </div>
-
-</div>
