@@ -33,9 +33,11 @@ footer:
     - type: github
       name: GitHub
       link: https://github.com/marvinjacquet/
-    - name: orcid
+    - type: orcid
+      name: ORCID
       link: https://orcid.org/0000-0002-9890-7908
-    - name: researchgate
+    - type: researchgate
+      name: Researchgate
       link: https://www.researchgate.net/profile/Marvin-Jacquet
 
 # Build settings

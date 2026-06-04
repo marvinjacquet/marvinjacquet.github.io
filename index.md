@@ -6,7 +6,10 @@ profile_picture:
 ---
 
 Hi, welcome to my webpage.
+I'm Marvin, a pharmacy resident and biostatistics student.
 
-I am Marvin, both a pharmacy and biostatistics student.
+I began my residency at CHU Grenoble Alpes in 2022, developing experience from clinical pharmacy in pediatrics and transplantation, to pharmacology and clinical investigation.
 
-I am currently a pharmacy resident at CHU Grenoble Alpes and a biostatistics intern at TIMC lab. I am in interested in Deep Learning and Survival Analysis 
+I joined the TIMC laboratory in 2026 as a biostatistics intern for my dedicated research year, working on deep learning, model interpretability and data visualization applied to large-scale data in solid organ transplantation.
+
+Here you will find my experiences, publications, conference contributions, teaching material and reflections on pharmacy, biostatistics, and healthcare AI.
