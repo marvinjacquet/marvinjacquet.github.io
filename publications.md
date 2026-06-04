@@ -96,7 +96,15 @@ slug: /publications
     border-color: #333;
   }
 
+  .pub-footnotes {
+    margin-top: 8px;
+    font-size: 0.85em;
+    color: #555;
+  }
 
+  .pub-footnotes div {
+    margin-top: 2px;
+  }
 
 
   @media (max-width: 600px) {
@@ -118,5 +126,70 @@ slug: /publications
       <div class="pub-meta-row">
         <span class="pub-venue">Expert Review of Medical Devices</span>
         <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">paper ↗</a>
+      </div>
+    </div>
+
+
+<!-- ═══ 2024 ═══ -->
+  <div class="pub-year-group">
+    <div class="pub-year">2024</div>
+
+    <div class="pub-card">
+      <div class="pub-title">Calcul de dose en pédiatrie</div>
+      <div class="pub-authors">Convert M, <span class="me">Jacquet M</span>, Trochet C, Gibert P, Chanoine S</div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">La Revue de l'Infirmière</span>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">paper ↗</a>
+      </div>
+    </div>
+
+
+<!-- ═══ 2023 ═══ -->
+  <div class="pub-year-group">
+    <div class="pub-year">2023</div>
+
+    <div class="pub-card">
+      <div class="pub-title">Early Exposure of Kidney Transplant Recipients with Chronic Antibody-Mediated Rejection to Tocilizumab—A Preliminary Study</div>
+      <div class="pub-authors">Arrive C<sup>*</sup>, <span class="me">Jacquet M<sup>*</sup></span>, Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F</div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">Journal of Clinical Medicine</span>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper ↗</a>
+      </div>
+    </div>
+
+<!-- ═══ 2023 ═══ -->
+
+  <div class="pub-year-group">
+    <div class="pub-year">2023</div>
+
+    <div class="pub-card">
+      <div class="pub-title">
+        Early Exposure of Kidney Transplant Recipients with Chronic Antibody-Mediated Rejection to Tocilizumab—A Preliminary Study
+      </div>
+      <div class="pub-authors">
+        Arrive C<sup><a href="#fn1">*</a></sup>, 
+        <span class="me">Jacquet M<sup><a href="#fn1">*</a></sup></span>, 
+        Gautier-Veyret E,Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
+      </div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">Journal of Clinical Medicine</span>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper ↗</a>
+      </div>
+      <!-- Footnotes -->
+      <div class="pub-footnotes">
+        <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
+      </div>
+    </div>
+
+<!-- ═══ 2021 ═══ -->
+  <div class="pub-year-group">
+    <div class="pub-year">2021</div>
+
+    <div class="pub-card">
+      <div class="pub-title">MALDI-TOF MS in a Medical Mycology Laboratory: On Stage and Backstage</div>
+      <div class="pub-authors">Robert MG, Cornet M, Hennebique A, Rasamoelina T, Caspar Y, Ponderand L, Bidart M, Durand H, <span class="me">Jacquet M*</span>, Garnaud C, Maubon D</div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">Journal of Clinical Medicine</span>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper ↗</a>
       </div>
     </div>
