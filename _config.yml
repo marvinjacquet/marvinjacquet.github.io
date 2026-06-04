@@ -5,7 +5,7 @@ baseurl: ""
 url: "https://marvinjacquet.github.io"
 og_image: /assets/img/profile-pic.jpg
 google_analytics: ""
-remote_theme: eliottvincent/bay
+remote_theme: eliottvincent/bay@v1.2.5
 
 header:
   pages:
