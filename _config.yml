@@ -32,9 +32,9 @@ footer:
     - type: github
       name: GitHub
       link: https://github.com/marvinjacquet/
-    - name: ORCID
+    - name: orcid
       link: https://orcid.org/0000-0002-9890-7908
-    - name: RGate
+    - name: researchgate
       link: https://www.researchgate.net/profile/Marvin-Jacquet
 
 # Build settings
