@@ -9,6 +9,7 @@ slug: /research
     max-width: 720px;
     margin: 0 auto;
     padding-bottom: 60px;
+    font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
   }
 
   .filter-bar {
@@ -19,10 +20,11 @@ slug: /research
   }
 
   .filter-btn {
-    font-size: 0.78em;
-    font-weight: 500;
+    font-family: inherit;
+    font-size: 0.8em;
+    font-weight: 400;
     letter-spacing: 0.03em;
-    color: #888;
+    color: #aaa;
     background: none;
     border: 1px solid #ddd;
     border-radius: 4px;
@@ -33,13 +35,12 @@ slug: /research
 
   .filter-btn:hover {
     border-color: #aaa;
-    color: #444;
+    color: #555;
   }
 
   .filter-btn.active {
     border-color: #555;
     color: #111;
-    background: #f5f5f5;
   }
 
   .pub-year-group {
@@ -51,11 +52,11 @@ slug: /research
   }
 
   .pub-year {
-    font-size: 1em;
-    font-weight: 500;
+    font-size: 0.8em;
+    font-weight: 400;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #555;
+    color: #aaa;
     margin-bottom: 8px;
     padding-bottom: 6px;
     border-bottom: 1px solid #eee;
@@ -63,8 +64,7 @@ slug: /research
 
   .pub-card {
     padding: 16px 0;
-    border-bottom: 1px solid #f5f5f5;
-    position: relative;
+    border-bottom: 1px solid #f0f0f0;
   }
 
   .pub-card:last-child {
@@ -76,29 +76,29 @@ slug: /research
   }
 
   .pub-card .pub-title {
-    font-weight: 500;
-    font-size: 1.15em;
+    font-size: 1.1em;
+    font-weight: 400;
     line-height: 1.45;
     margin-bottom: 6px;
     color: #111;
   }
 
   .pub-card .pub-authors {
-    font-size: 1em;
-    color: #888;
+    font-size: 0.95em;
+    color: #aaa;
     margin-bottom: 6px;
     line-height: 1.5;
   }
 
   .pub-card .pub-authors .me {
-    color: #111;
-    font-weight: 500;
+    color: #555;
+    font-weight: 400;
   }
 
   .pub-card .pub-authors .equal {
-    font-size: 0.7em;
+    font-size: 0.8em;
     vertical-align: super;
-    color: #b45309;
+    color: #aaa;
   }
 
   .pub-meta-row {
@@ -108,38 +108,38 @@ slug: /research
     flex-wrap: wrap;
   }
 
-  .pub-venue {
-    font-size: 1em;
-    font-style: italic;
-    color: #999;
-    flex: 1;
-  }
-
   .pub-type-badge {
-    font-size: 0.7em;
-    font-weight: 500;
+    font-size: 0.8em;
+    font-weight: 400;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    color: #999;
+    color: #aaa;
     border: 1px solid #e0e0e0;
     border-radius: 3px;
     padding: 2px 6px;
     white-space: nowrap;
+    text-transform: uppercase; 
+  }
+
+  .pub-venue {
+    font-size: 0.95em;
+    font-style: italic;
+    color: #aaa;
+    flex: 1;
   }
 
   .pub-link {
-    font-size: 1em;
-    font-weight: 500;
-    letter-spacing: 0.05em;
+    font-family: inherit;
+    font-size: 0.8em;
+    font-weight: 400;
     color: #555;
     text-decoration: none;
-    border-bottom: 1px solid #999;
+    border-bottom: 1px solid #bbb;
     margin-left: auto;
   }
 
   .pub-link:hover {
     background: #f5f5f5;
-    border-color: #bbb;
   }
 
   @media (max-width: 600px) {
