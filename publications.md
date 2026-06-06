@@ -174,6 +174,25 @@ slug: /publications
         <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
       </div>
     </div>
+
+    <div class="pub-card">
+      <div class="pub-title">
+        Early Exposure of Kidney Transplant Recipients with Chronic Antibody-Mediated Rejection to Tocilizumab—A Preliminary Study
+      </div>
+      <div class="pub-authors">
+        Arrive C<sup><a href="#fn1">*</a></sup>, 
+        <span class="me">Jacquet M<sup><a href="#fn1">*</a></sup></span>, 
+        Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
+      </div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">Journal of Clinical Medicine</span>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
+      </div>
+      <!-- Footnotes -->
+      <div class="pub-footnotes">
+        <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
+      </div>
+    </div>
   </div>
 
 <!-- ═══ 2021 ═══ -->
