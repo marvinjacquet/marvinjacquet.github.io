@@ -44,7 +44,7 @@ slug: /publications
   }
 
   .pub-card .pub-title {
-    font-weight: 600;
+    font-weight: 550;
     font-size: 1.15em;
     line-height: 1.45;
     margin-bottom: 4px;
@@ -89,7 +89,7 @@ slug: /publications
     text-decoration: none;
     border: 1px solid #999;
     border-radius: 4px;
-    padding: 4px 8px;
+    padding: 3px 7px;
     margin-left: auto;
     transition: border-color 0.15s;
     white-space: nowrap;
