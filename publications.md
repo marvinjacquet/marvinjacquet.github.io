@@ -45,14 +45,14 @@ slug: /publications
 
   .pub-card .pub-title {
     font-weight: 600;
-    font-size: 1em;
+    font-size: 1.15em;
     line-height: 1.45;
     margin-bottom: 4px;
     color: #111;
   }
 
   .pub-card .pub-authors {
-    font-size: 0.85em;
+    font-size: 1em;
     color: #888;
     margin-bottom: 8px;
     line-height: 1.5;
@@ -77,7 +77,7 @@ slug: /publications
   }
 
   .pub-venue {
-    font-size: 0.82em;
+    font-size: 0.95em;
     font-style: italic;
     color: #999;
   }
@@ -87,7 +87,7 @@ slug: /publications
     font-weight: 500;
     color: #444;
     text-decoration: none;
-    border-bottom: 1px solid #bbb;
+    border: 1px solid #bbb;
     border-radius: 4px;
     padding: 3px 10px;
     margin-left: auto;
@@ -161,7 +161,7 @@ slug: /publications
       <div class="pub-authors">
         Arrive C<sup><a href="#fn1">*</a></sup>, 
         <span class="me">Jacquet M<sup><a href="#fn1">*</a></sup></span>, 
-        Gautier-Veyret E,Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
+        Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
       </div>
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
