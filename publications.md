@@ -83,16 +83,17 @@ slug: /publications
   }
 
   .pub-link {
-    font-size: 0.75em;
+    font-size: 0.82em;
     font-weight: 500;
     color: #444;
     text-decoration: none;
     border-bottom: 1px solid #bbb;
     border-radius: 4px;
-    padding: 3px 8px;
+    padding: 3px 10px;
     margin-left: auto;
     transition: border-color 0.15s;
     white-space: nowrap;
+    display: inline-block;
   }
 
   .pub-link:hover {
