@@ -183,7 +183,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-venue">Expert Review of Medical Devices</span>
         <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">paper ↗</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">paper</a>
       </div>
     </div>
   </div>
@@ -192,13 +192,23 @@ slug: /research
   <div class="pub-year-group" data-year="2024">
     <div class="pub-year">2024</div>
 
-    <div class="pub-card" data-type="paper">
+    <div class="pub-card" data-type="talk">
+      <div class="pub-title">Systèmes de fixation de dispositifs médicaux : de l'évaluation des besoins à l'uniformisation des pratiques </div>
+      <div class="pub-authors"><span class="me">Jacquet M</span>, Liaigre L, Reymond F, Chapuis C, Chanoine S, Quarteroni L, Py P, Mandaroux S, Pois Pompee P, Le Guen Y, Petiot J, Senellart O, Thevenot M, Salomez-Ihl C, Bedouch P</div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">SNPHPU (Montpellier 2024)</span>
+        <span class="pub-type-badge">talk</span>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">pdf</a>
+      </div>
+    </div>
+
+        <div class="pub-card" data-type="paper">
       <div class="pub-title">Calcul de dose en pédiatrie</div>
       <div class="pub-authors">Convert M, <span class="me">Jacquet M</span>, Trochet C, Gibert P, Chanoine S</div>
       <div class="pub-meta-row">
         <span class="pub-venue">La Revue de l'Infirmière</span>
         <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">paper ↗</a>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">paper</a>
       </div>
     </div>
   </div>
@@ -210,17 +220,13 @@ slug: /research
     <div class="pub-card" data-type="paper">
       <div class="pub-title">Early Exposure of Kidney Transplant Recipients with Chronic Antibody-Mediated Rejection to Tocilizumab—A Preliminary Study</div>
       <div class="pub-authors">
-        Arrive C<sup><a href="#fn1">*</a></sup>,
-        <span class="me">Jacquet M<sup><a href="#fn1">*</a></sup></span>,
+        Arrive C, <span class="me">Jacquet M</span>,
         Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
       </div>
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
         <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper ↗</a>
-      </div>
-      <div class="pub-footnotes">
-        <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper</a>
       </div>
     </div>
   </div>
