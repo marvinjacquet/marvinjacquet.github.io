@@ -25,7 +25,7 @@ slug: /publications
   .pub-year {
     font-size: 0.85em;
     font-weight: 600;
-    letter-spacing: 0.1em;
+    letter-spacing: 0.08em;
     text-transform: uppercase;
     color: #999;
     margin-bottom: 8px;
@@ -44,11 +44,11 @@ slug: /publications
   }
 
   .pub-card .pub-title {
-    font-weight: 500;
-    font-size: 0.95em;
+    font-weight: 600;
+    font-size: 1em;
     line-height: 1.45;
     margin-bottom: 4px;
-    color: #222;
+    color: #111;
   }
 
   .pub-card .pub-authors {
@@ -85,9 +85,9 @@ slug: /publications
   .pub-link {
     font-size: 0.75em;
     font-weight: 500;
-    color: #333;
+    color: #444;
     text-decoration: none;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid #bbb;
     border-radius: 4px;
     padding: 3px 8px;
     margin-left: auto;
@@ -97,6 +97,7 @@ slug: /publications
 
   .pub-link:hover {
     background: #f5f5f5;
+    border-color: #999;
   }
 
   .pub-footnotes {
