@@ -26,9 +26,9 @@ slug: /research
     letter-spacing: 0.03em;
     color: #aaa;
     background: none;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 4px 12px;
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    padding: 2px 6px;
     cursor: pointer;
     transition: all 0.15s;
   }
@@ -59,11 +59,11 @@ slug: /research
     color: #aaa;
     margin-bottom: 8px;
     padding-bottom: 6px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #aaa;
   }
 
   .pub-card {
-    padding: 8px 0;
+    padding: 12px 0;
     border-bottom: 1px solid #f0f0f0;
   }
 
@@ -95,12 +95,6 @@ slug: /research
     font-weight: 400;
   }
 
-  .pub-card .pub-authors .equal {
-    font-size: 0.8em;
-    vertical-align: super;
-    color: #aaa;
-  }
-
   .pub-meta-row {
     display: flex;
     align-items: center;
@@ -114,7 +108,7 @@ slug: /research
     letter-spacing: 0.05em;
     text-transform: uppercase;
     color: #aaa;
-    border: 1px solid #e0e0e0;
+    border: 1px solid #aaa;
     border-radius: 3px;
     padding: 2px 6px;
     white-space: nowrap;
