@@ -28,7 +28,7 @@ slug: /research
     background: none;
     border: 1px solid #e0e0e0;
     border-radius: 3px;
-    padding: 2px 6px;
+    padding: 3px 6px;
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.15s;
@@ -59,7 +59,7 @@ slug: /research
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: #aaa;
-    margin-bottom: 4px;
+    margin-bottom: 0px;
     padding-bottom: 6px;
     border-bottom: 1px solid #e0e0e0;
   }
@@ -174,7 +174,7 @@ slug: /research
       <div class="pub-title">Systèmes de fixation de dispositifs médicaux : de l'évaluation des besoins à l'uniformisation des pratiques </div>
       <div class="pub-authors"><span class="me">Jacquet M</span>, Liaigre L, Reymond F, Chapuis C, Chanoine S, Quarteroni L, Py P, Mandaroux S, Pois Pompee P, Le Guen Y, Petiot J, Senellart O, Thevenot M, Salomez-Ihl C, Bedouch P</div>
       <div class="pub-meta-row">
-        <span class="pub-type-badge">talk ↗</span>
+        <span class="pub-type-badge">talk</span>
         <span class="pub-venue">SNPHPU (Montpellier)</span>
         <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">[pdf]</a>
       </div>
