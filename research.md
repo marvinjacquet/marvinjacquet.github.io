@@ -52,7 +52,7 @@ slug: /research
 
   .pub-year {
     font-size: 1em;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: #555;
@@ -76,7 +76,7 @@ slug: /research
   }
 
   .pub-card .pub-title {
-    font-weight: 550;
+    font-weight: 500;
     font-size: 1.15em;
     line-height: 1.45;
     margin-bottom: 6px;
@@ -92,7 +92,7 @@ slug: /research
 
   .pub-card .pub-authors .me {
     color: #111;
-    font-weight: 600;
+    font-weight: 500;
   }
 
   .pub-card .pub-authors .equal {
@@ -109,7 +109,7 @@ slug: /research
   }
 
   .pub-venue {
-    font-size: 0.95em;
+    font-size: 1em;
     font-style: italic;
     color: #999;
     flex: 1;
@@ -128,7 +128,7 @@ slug: /research
   }
 
   .pub-link {
-    font-size: 0.7em;
+    font-size: 1em;
     font-weight: 500;
     letter-spacing: 0.05em;
     color: #555;
@@ -140,16 +140,6 @@ slug: /research
   .pub-link:hover {
     background: #f5f5f5;
     border-color: #bbb;
-  }
-
-  .pub-footnotes {
-    margin-top: 8px;
-    font-size: 0.85em;
-    color: #555;
-  }
-
-  .pub-footnotes div {
-    margin-top: 2px;
   }
 
   @media (max-width: 600px) {
