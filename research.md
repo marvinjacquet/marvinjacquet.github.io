@@ -23,12 +23,13 @@ slug: /research
     font-family: inherit;
     font-size: 0.8em;
     font-weight: 400;
-    letter-spacing: 0.03em;
+    letter-spacing: 0.05em;
     color: #aaa;
     background: none;
-    border: 1px solid #aaa;
+    border: 1px solid #e0e0e0;
     border-radius: 3px;
     padding: 2px 6px;
+    white-space: nowrap;
     cursor: pointer;
     transition: all 0.15s;
   }
@@ -108,7 +109,7 @@ slug: /research
     letter-spacing: 0.05em;
     text-transform: uppercase;
     color: #aaa;
-    border: 1px solid #aaa;
+    border: 1px solid #e0e0e0;
     border-radius: 3px;
     padding: 2px 6px;
     white-space: nowrap;
