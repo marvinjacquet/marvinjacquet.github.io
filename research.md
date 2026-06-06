@@ -32,6 +32,7 @@ slug: /research
     white-space: nowrap;
     cursor: pointer;
     transition: all 0.15s;
+    text-transform: uppercase;
   }
 
   .filter-btn:hover {
@@ -113,7 +114,6 @@ slug: /research
     border-radius: 3px;
     padding: 2px 6px;
     white-space: nowrap;
-    text-transform: uppercase; 
   }
 
   .pub-venue {
@@ -146,10 +146,10 @@ slug: /research
 <div class="pub-section">
 
   <div class="filter-bar">
-    <button class="filter-btn active" data-filter="all">ALL</button>
-    <button class="filter-btn" data-filter="article">ARTICLES</button>
-    <button class="filter-btn" data-filter="talk">TALKS</button>
-    <button class="filter-btn" data-filter="poster">POSTERS</button>
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="article">Articles</button>
+    <button class="filter-btn" data-filter="talk">Talks</button>
+    <button class="filter-btn" data-filter="poster">Posters</button>
   </div>
 
   <!-- ═══ 2025 ═══ -->
