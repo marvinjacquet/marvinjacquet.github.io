@@ -47,14 +47,14 @@ slug: /publications
     font-weight: 550;
     font-size: 1.15em;
     line-height: 1.45;
-    margin-bottom: 4px;
+    margin-bottom: 6px;
     color: #111;
   }
 
   .pub-card .pub-authors {
     font-size: 1em;
     color: #888;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     line-height: 1.5;
   }
 
@@ -102,17 +102,6 @@ slug: /publications
     background: #f5f5f5;
     border-color: #bbb;
   }
-
-  .pub-footnotes {
-    margin-top: 8px;
-    font-size: 0.85em;
-    color: #555;
-  }
-
-  .pub-footnotes div {
-    margin-top: 2px;
-  }
-
 
   @media (max-width: 600px) {
     .pub-link { margin-left: 0; margin-top: 4px; }
@@ -169,10 +158,6 @@ slug: /publications
         <span class="pub-venue">Journal of Clinical Medicine</span>
         <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
       </div>
-      <!-- Footnotes -->
-      <div class="pub-footnotes">
-        <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
-      </div>
     </div>
 
     <div class="pub-card">
@@ -187,10 +172,6 @@ slug: /publications
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
         <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
-      </div>
-      <!-- Footnotes -->
-      <div class="pub-footnotes">
-        <div id="fn1"><sup>*</sup> These authors contributed equally.</div>
       </div>
     </div>
   </div>
