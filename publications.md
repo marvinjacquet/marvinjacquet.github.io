@@ -27,7 +27,7 @@ slug: /publications
     font-weight: 600;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #999;
+    color: #555;
     margin-bottom: 8px;
     padding-bottom: 6px;
     border-bottom: 1px solid #eee;
@@ -90,7 +90,6 @@ slug: /publications
     border: 1px solid #999;
     border-radius: 4px;
     padding: 4px 8px;
-    line-height: 1;
     margin-left: auto;
     transition: border-color 0.15s;
     white-space: nowrap;
@@ -133,7 +132,7 @@ slug: /publications
       <div class="pub-authors">Salomez-Ihl C, <span class="me">Jacquet M</span>, Quarteroni L, Defaye P, Schmitt D, Py P, Bedouch P</div>
       <div class="pub-meta-row">
         <span class="pub-venue">Expert Review of Medical Devices</span>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">paper</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">article</a>
       </div>
     </div>
   </div>
@@ -147,7 +146,7 @@ slug: /publications
       <div class="pub-authors">Convert M, <span class="me">Jacquet M</span>, Trochet C, Gibert P, Chanoine S</div>
       <div class="pub-meta-row">
         <span class="pub-venue">La Revue de l'Infirmière</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">paper</a>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">article</a>
       </div>
     </div>
   </div>
@@ -168,7 +167,7 @@ slug: /publications
       </div>
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper</a>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
       </div>
       <!-- Footnotes -->
       <div class="pub-footnotes">
