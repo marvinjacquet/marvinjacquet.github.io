@@ -157,11 +157,11 @@ slug: /research
 
     <div class="pub-card" data-type="poster">
       <div class="pub-title">Les revues de prescription : un outil clé de pharmacie clinique au service de l'éco-conception des soins</div>
-      <div class="pub-authors"> <span class="me">Jacquet M</span>, Gueneau C, Liaigre L, Lombardo D, Bedouch P, Chapuis C, Chanoine S</div>
+      <div class="pub-authors"> <span class="me">Jacquet M</span>, Gueneau C, Liaigre L, Lombardo D, Bedouch P, Chanoine S, Chapuis C</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">poster</span>
         <span class="pub-venue">SFPC (Nantes)</span>
-        <a class="pub-link" href=""/assets/pdf/jacquet_sfpc_2026.pdf"" target="_blank">[pdf]</a>
+        <a class="pub-link" href="/assets/pdf/jacquet_sfpc_2026.pdf" target="_blank">[pdf]</a>
       </div>
     </div>
   </div>
