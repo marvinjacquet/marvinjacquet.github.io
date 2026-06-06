@@ -183,8 +183,8 @@ slug: /research
       <div class="pub-title">Vigilance and medical devices: from theory to the field, the example of electroporation in atrial fibrillation</div>
       <div class="pub-authors">Salomez-Ihl C, <span class="me">Jacquet M</span>, Quarteroni L, Defaye P, Schmitt D, Py P, Bedouch P</div>
       <div class="pub-meta-row">
-        <span class="pub-venue">Expert Review of Medical Devices</span>
         <span class="pub-type-badge">article</span>
+        <span class="pub-venue">Expert Review of Medical Devices</span>
         <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">ARTICLE (link)</a>
       </div>
     </div>
@@ -198,8 +198,8 @@ slug: /research
       <div class="pub-title">Systèmes de fixation de dispositifs médicaux : de l'évaluation des besoins à l'uniformisation des pratiques </div>
       <div class="pub-authors"><span class="me">Jacquet M</span>, Liaigre L, Reymond F, Chapuis C, Chanoine S, Quarteroni L, Py P, Mandaroux S, Pois Pompee P, Le Guen Y, Petiot J, Senellart O, Thevenot M, Salomez-Ihl C, Bedouch P</div>
       <div class="pub-meta-row">
-        <span class="pub-venue">SNPHPU (Montpellier 2024)</span>
         <span class="pub-type-badge">talk</span>
+        <span class="pub-venue">SNPHPU (Montpellier 2024)</span>
         <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">pdf</a>
       </div>
     </div>
@@ -208,8 +208,8 @@ slug: /research
       <div class="pub-title">Calcul de dose en pédiatrie</div>
       <div class="pub-authors">Convert M, <span class="me">Jacquet M</span>, Trochet C, Gibert P, Chanoine S</div>
       <div class="pub-meta-row">
-        <span class="pub-venue">La Revue de l'Infirmière</span>
         <span class="pub-type-badge">article</span>
+        <span class="pub-venue">La Revue de l'Infirmière</span>
         <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">article</a>
       </div>
     </div>
@@ -226,8 +226,8 @@ slug: /research
         Gautier-Veyret E, Jouve T, Noble J, Lombardo D, Rostaing L, Stanke-Labesque F
       </div>
       <div class="pub-meta-row">
-        <span class="pub-venue">Journal of Clinical Medicine</span>
         <span class="pub-type-badge">article</span>
+        <span class="pub-venue">Journal of Clinical Medicine</span>
         <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
       </div>
     </div>
@@ -241,8 +241,8 @@ slug: /research
       <div class="pub-title">MALDI-TOF MS in a Medical Mycology Laboratory: On Stage and Backstage</div>
       <div class="pub-authors">Robert MG, Cornet M, Hennebique A, Rasamoelina T, Caspar Y, Ponderand L, Bidart M, Durand H, <span class="me">Jacquet M</span><sup>*</sup>, Garnaud C, Maubon D</div>
       <div class="pub-meta-row">
-        <span class="pub-venue">Microorganisms</span>
         <span class="pub-type-badge">article</span>
+        <span class="pub-venue">Microorganisms</span>
         <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">article ↗</a>
       </div>
     </div>
