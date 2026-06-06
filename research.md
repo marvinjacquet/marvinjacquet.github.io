@@ -161,7 +161,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">poster</span>
         <span class="pub-venue">SFPC (Nantes)</span>
-        <a class="pub-link" href="" target="_blank">[pdf]</a>
+        <a class="pub-link" href=""/assets/pdf/jacquet_sfpc_2026.pdf"" target="_blank">[pdf]</a>
       </div>
     </div>
   </div>
@@ -308,7 +308,7 @@ slug: /research
       <div class="pub-authors">Dupre M, <span class="me">Jacquet M</span>, Bouvet P, ..., Le Gouellec A, Cavailles P, Durmort C</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">talk</span>
-        <span class="pub-venue">iGEM Giant Jamboree</span>
+        <span class="pub-venue">iGEM Giant Jamboree (Boston)</span>
         <a class="pub-link" href="" target="_blank">[link]</a>
       </div>
     </div>
@@ -318,7 +318,7 @@ slug: /research
       <div class="pub-authors"><span class="me">Jacquet M</span>, Dupre M, Bouvet P, ..., Le Gouellec A, Cavailles P, Durmort C</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">talk</span>
-        <span class="pub-venue">EXON</span>
+        <span class="pub-venue">EXON (Grenoble)</span>
         <a class="pub-link" href="" target="_blank">[link]</a>
       </div>
     </div>
