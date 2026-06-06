@@ -186,6 +186,7 @@ slug: /research
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Expert Review of Medical Devices</span>
         <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">ARTICLE (link)</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">ARTICLE (link)</a>
       </div>
     </div>
   </div>
