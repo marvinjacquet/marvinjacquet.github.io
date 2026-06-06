@@ -131,18 +131,10 @@ slug: /research
     font-size: 0.7em;
     font-weight: 500;
     letter-spacing: 0.05em;
-    text-transform: uppercase;
     color: #555;
     text-decoration: none;
-    border: 1px solid #999;
-    border-radius: 3px;
-    padding: 2px 6px;
-    line-height: 1;
-    transition: background 0.15s, border-color 0.15s;
-    white-space: nowrap;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
+    border-bottom: 1px solid #999;
+    margin-left: auto;
   }
 
   .pub-link:hover {
@@ -185,8 +177,8 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Expert Review of Medical Devices</span>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">ARTICLE (link)</a>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">ARTICLE (link)</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">link</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">pdf</a>
       </div>
     </div>
   </div>
