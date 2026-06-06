@@ -9,7 +9,6 @@ slug: /publications
     max-width: 720px;
     margin: 0 auto;
     padding-bottom: 60px;
-    font-size: 1.15em;
   }
 
   .pub-intro {
