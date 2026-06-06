@@ -63,7 +63,7 @@ slug: /research
   }
 
   .pub-card {
-    padding: 16px 0;
+    padding: 8px 0;
     border-bottom: 1px solid #f0f0f0;
   }
 
@@ -134,7 +134,7 @@ slug: /research
     font-weight: 400;
     color: #555;
     text-decoration: none;
-    border-bottom: 1px solid #bbb;
+    border-bottom: 1px solid #555;
     margin-left: auto;
   }
 
@@ -151,10 +151,10 @@ slug: /research
 <div class="pub-section">
 
   <div class="filter-bar">
-    <button class="filter-btn active" data-filter="all">All</button>
-    <button class="filter-btn" data-filter="article">Articles</button>
-    <button class="filter-btn" data-filter="talk">Talks</button>
-    <button class="filter-btn" data-filter="poster">Posters</button>
+    <button class="filter-btn active" data-filter="all">ALL</button>
+    <button class="filter-btn" data-filter="article">ARTICLES</button>
+    <button class="filter-btn" data-filter="talk">TALKS</button>
+    <button class="filter-btn" data-filter="poster">POSTERS</button>
   </div>
 
   <!-- ═══ 2025 ═══ -->
@@ -182,7 +182,7 @@ slug: /research
       <div class="pub-authors"><span class="me">Jacquet M</span>, Liaigre L, Reymond F, Chapuis C, Chanoine S, Quarteroni L, Py P, Mandaroux S, Pois Pompee P, Le Guen Y, Petiot J, Senellart O, Thevenot M, Salomez-Ihl C, Bedouch P</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">talk</span>
-        <span class="pub-venue">SNPHPU (Montpellier 2024)</span>
+        <span class="pub-venue">SNPHPU (Montpellier)</span>
         <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">pdf</a>
       </div>
     </div>
@@ -226,7 +226,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Microorganisms</span>
-        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">article ↗</a>
+        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">article</a>
       </div>
     </div>
   </div>
