@@ -59,7 +59,7 @@ slug: /research
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: #aaa;
-    margin-bottom: 6px;
+    margin-bottom: 4px;
     padding-bottom: 6px;
     border-bottom: 1px solid #e0e0e0;
   }
@@ -161,7 +161,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Expert Review of Medical Devices</span>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">link ↗</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">[link]</a>
       </div>
     </div>
   </div>
@@ -176,7 +176,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">talk ↗</span>
         <span class="pub-venue">SNPHPU (Montpellier)</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">pdf ↗</a>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">[pdf]</a>
       </div>
     </div>
 
@@ -186,7 +186,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">La Revue de l'Infirmière</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">link ↗</a>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">[link]</a>
       </div>
     </div>
   </div>
@@ -204,7 +204,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Journal of Clinical Medicine</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">link ↗</a>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">[link]</a>
       </div>
     </div>
   </div>
@@ -219,7 +219,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Microorganisms</span>
-        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">link ↗</a>
+        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">[link]</a>
       </div>
     </div>
   </div>
