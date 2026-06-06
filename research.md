@@ -59,9 +59,9 @@ slug: /research
     letter-spacing: 0.08em;
     text-transform: uppercase;
     color: #aaa;
-    margin-bottom: 8px;
+    margin-bottom: 6px;
     padding-bottom: 6px;
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid #e0e0e0;
   }
 
   .pub-card {
@@ -125,16 +125,15 @@ slug: /research
 
   .pub-link {
     font-family: inherit;
-    font-size: 0.8em;
+    font-size: 0.95em;
     font-weight: 400;
     color: #555;
     text-decoration: none;
-    border-bottom: 1px solid #555;
-    margin-left: auto;
+    transition: color 0.15s
   }
 
   .pub-link:hover {
-    background: #f5f5f5;
+    color: #111;
   }
 
   @media (max-width: 600px) {
@@ -162,8 +161,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Expert Review of Medical Devices</span>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">link</a>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">pdf</a>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">link ↗</a>
       </div>
     </div>
   </div>
@@ -176,9 +174,9 @@ slug: /research
       <div class="pub-title">Systèmes de fixation de dispositifs médicaux : de l'évaluation des besoins à l'uniformisation des pratiques </div>
       <div class="pub-authors"><span class="me">Jacquet M</span>, Liaigre L, Reymond F, Chapuis C, Chanoine S, Quarteroni L, Py P, Mandaroux S, Pois Pompee P, Le Guen Y, Petiot J, Senellart O, Thevenot M, Salomez-Ihl C, Bedouch P</div>
       <div class="pub-meta-row">
-        <span class="pub-type-badge">talk</span>
+        <span class="pub-type-badge">talk ↗</span>
         <span class="pub-venue">SNPHPU (Montpellier)</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">pdf</a>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">pdf ↗</a>
       </div>
     </div>
 
@@ -188,7 +186,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">La Revue de l'Infirmière</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">article</a>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">link ↗</a>
       </div>
     </div>
   </div>
@@ -206,7 +204,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Journal of Clinical Medicine</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">link ↗</a>
       </div>
     </div>
   </div>
@@ -221,7 +219,7 @@ slug: /research
       <div class="pub-meta-row">
         <span class="pub-type-badge">article</span>
         <span class="pub-venue">Microorganisms</span>
-        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">article</a>
+        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">link ↗</a>
       </div>
     </div>
   </div>
