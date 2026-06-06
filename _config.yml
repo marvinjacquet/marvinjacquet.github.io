@@ -11,10 +11,8 @@ header:
   pages:
     - name: CV
       slug: /cv
-    - name: Publications
-      slug: /publications
-    - name: Conferences
-      slug: /conferences
+    - name: Research
+      slug: /research
     - name: Teaching
       slug: /teaching
     - name: Blog
