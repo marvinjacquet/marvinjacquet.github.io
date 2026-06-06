@@ -160,7 +160,7 @@ slug: /research
       <div class="pub-authors"> <span class="me">Jacquet M</span>, Gueneau C, Liaigre L, Lombardo D, Bedouch P, Chapuis C, Chanoine S</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">poster</span>
-        <span class="pub-venue">SFPC (Toulouse)</span>
+        <span class="pub-venue">SFPC (Nantes)</span>
         <a class="pub-link" href="" target="_blank">[pdf]</a>
       </div>
     </div>
@@ -182,7 +182,7 @@ slug: /research
 
     <div class="pub-card" data-type="poster">
       <div class="pub-title">Palatability of Medicines : A Key Issue to Integrate into Pediatric Pharmaceutical Care</div>
-      <div class="pub-authors"> Mathieu M<span class="me">Jacquet M</span>, Allenet B, Bedouch P, Chanoine S</div>
+      <div class="pub-authors"> Mathieu M ,<span class="me">Jacquet M</span>, Allenet B, Bedouch P, Chanoine S</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">poster</span>
         <span class="pub-venue">ESCP (Grenoble)</span>
@@ -252,7 +252,6 @@ slug: /research
         <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">[link]</a>
       </div>
     </div>
-  </div>
 
     <div class="pub-card" data-type="talk">
       <div class="pub-title">Supplémentation vitaminique entérale du nouveau-né prématuré : la dose unique ne convient pas à tous !</div>
@@ -283,6 +282,7 @@ slug: /research
         <a class="pub-link" href="" target="_blank">[pdf]</a>
       </div>
     </div>
+  </div>
 
   <!-- ═══ 2021 ═══ -->
   <div class="pub-year-group" data-year="2021">
@@ -315,7 +315,7 @@ slug: /research
 
     <div class="pub-card" data-type="talk">
       <div class="pub-title">Bacterial Adenylate Cyclase-Based Two-Hybrid System using Aptamers for the detection of Alpha-synuclein</div>
-      <div class="pub-authors">Dupre M, <span class="me">Jacquet M</span>, Bouvet P, ..., Le Gouellec A, Cavailles P, Durmort C</div>
+      <div class="pub-authors"><span class="me">Jacquet M</span>, Dupre M, Bouvet P, ..., Le Gouellec A, Cavailles P, Durmort C</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">talk</span>
         <span class="pub-venue">EXON</span>
