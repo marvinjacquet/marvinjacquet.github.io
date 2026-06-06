@@ -23,12 +23,12 @@ slug: /publications
   }
 
   .pub-year {
-    font-size: 0.75em;
+    font-size: 0.85em;
     font-weight: 600;
     letter-spacing: 0.1em;
     text-transform: uppercase;
     color: #999;
-    margin-bottom: 16px;
+    margin-bottom: 8px;
     padding-bottom: 6px;
     border-bottom: 1px solid #eee;
   }
@@ -83,17 +83,20 @@ slug: /publications
   }
 
   .pub-link {
-    font-size: 0.8em;
+    font-size: 0.75em;
     font-weight: 500;
     color: #333;
     text-decoration: none;
     border-bottom: 1px solid #ddd;
-    transition: border-color 0.2s;
+    border-radius: 4px;
+    padding: 3px 8px;
     margin-left: auto;
+    transition: border-color 0.15s;
+    white-space: nowrap;
   }
 
   .pub-link:hover {
-    border-color: #333;
+    background: #f5f5f5;
   }
 
   .pub-footnotes {
