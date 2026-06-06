@@ -128,13 +128,15 @@ slug: /research
   }
 
   .pub-link {
-    font-size: 0.82em;
+    font-size: 0.7em;
     font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
     color: #555;
     text-decoration: none;
     border: 1px solid #999;
-    border-radius: 4px;
-    padding: 3px 7px;
+    border-radius: 3px;
+    padding: 2px 6px;
     line-height: 1;
     transition: background 0.15s, border-color 0.15s;
     white-space: nowrap;
@@ -168,7 +170,7 @@ slug: /research
 
   <div class="filter-bar">
     <button class="filter-btn active" data-filter="all">All</button>
-    <button class="filter-btn" data-filter="paper">Papers</button>
+    <button class="filter-btn" data-filter="article">Articles</button>
     <button class="filter-btn" data-filter="talk">Talks</button>
     <button class="filter-btn" data-filter="poster">Posters</button>
   </div>
@@ -177,13 +179,13 @@ slug: /research
   <div class="pub-year-group" data-year="2025">
     <div class="pub-year">2025</div>
 
-    <div class="pub-card" data-type="paper">
+    <div class="pub-card" data-type="article">
       <div class="pub-title">Vigilance and medical devices: from theory to the field, the example of electroporation in atrial fibrillation</div>
       <div class="pub-authors">Salomez-Ihl C, <span class="me">Jacquet M</span>, Quarteroni L, Defaye P, Schmitt D, Py P, Bedouch P</div>
       <div class="pub-meta-row">
         <span class="pub-venue">Expert Review of Medical Devices</span>
-        <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">paper</a>
+        <span class="pub-type-badge">article</span>
+        <a class="pub-link" href="https://www.tandfonline.com/doi/full/10.1080/17434440.2025.2463340" target="_blank">ARTICLE (link)</a>
       </div>
     </div>
   </div>
@@ -202,13 +204,13 @@ slug: /research
       </div>
     </div>
 
-        <div class="pub-card" data-type="paper">
+        <div class="pub-card" data-type="article">
       <div class="pub-title">Calcul de dose en pédiatrie</div>
       <div class="pub-authors">Convert M, <span class="me">Jacquet M</span>, Trochet C, Gibert P, Chanoine S</div>
       <div class="pub-meta-row">
         <span class="pub-venue">La Revue de l'Infirmière</span>
-        <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">paper</a>
+        <span class="pub-type-badge">article</span>
+        <a class="pub-link" href="https://www.em-consulte.com/article/1683258" target="_blank">article</a>
       </div>
     </div>
   </div>
@@ -217,7 +219,7 @@ slug: /research
   <div class="pub-year-group" data-year="2023">
     <div class="pub-year">2023</div>
 
-    <div class="pub-card" data-type="paper">
+    <div class="pub-card" data-type="article">
       <div class="pub-title">Early Exposure of Kidney Transplant Recipients with Chronic Antibody-Mediated Rejection to Tocilizumab—A Preliminary Study</div>
       <div class="pub-authors">
         Arrive C, <span class="me">Jacquet M</span>,
@@ -225,8 +227,8 @@ slug: /research
       </div>
       <div class="pub-meta-row">
         <span class="pub-venue">Journal of Clinical Medicine</span>
-        <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">paper</a>
+        <span class="pub-type-badge">article</span>
+        <a class="pub-link" href="https://www.mdpi.com/2077-0383/12/22/7141" target="_blank">article</a>
       </div>
     </div>
   </div>
@@ -235,13 +237,13 @@ slug: /research
   <div class="pub-year-group" data-year="2021">
     <div class="pub-year">2021</div>
 
-    <div class="pub-card" data-type="paper">
+    <div class="pub-card" data-type="article">
       <div class="pub-title">MALDI-TOF MS in a Medical Mycology Laboratory: On Stage and Backstage</div>
       <div class="pub-authors">Robert MG, Cornet M, Hennebique A, Rasamoelina T, Caspar Y, Ponderand L, Bidart M, Durand H, <span class="me">Jacquet M</span><sup>*</sup>, Garnaud C, Maubon D</div>
       <div class="pub-meta-row">
         <span class="pub-venue">Microorganisms</span>
-        <span class="pub-type-badge">paper</span>
-        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">paper ↗</a>
+        <span class="pub-type-badge">article</span>
+        <a class="pub-link" href="https://www.mdpi.com/2076-2607/9/6/1283" target="_blank">article ↗</a>
       </div>
     </div>
   </div>
