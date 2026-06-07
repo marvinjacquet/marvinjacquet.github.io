@@ -3,7 +3,6 @@ layout: default
 title: CV
 permalink: /cv/en/
 lang: en
-lang-alt: /cv/fr/
 ---
 
 <style>
