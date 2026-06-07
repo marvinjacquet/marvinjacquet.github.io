@@ -116,7 +116,7 @@ slug: /cv
     <div class="cv-card">
       <div class="cv-date">2025 – 2026</div>
       <div class="cv-body">
-        <div class="cv-title">Master's degree - Public Health: Methods and Tools for Health Data Warehouses</div>
+        <div class="cv-title">Master's Degree (Year 2) in Public Health: Methods and Tools for Health Data Warehouses</div>
         <div class="cv-subtitle">Université Paris Cité, Paris</div>
       </div>
     </div>
@@ -132,7 +132,7 @@ slug: /cv
     <div class="cv-card">
       <div class="cv-date">2024 – 2025</div>
       <div class="cv-body">
-        <div class="cv-title">Diplôme Universitaire : Intelligence Artificielle en Santé</div>
+        <div class="cv-title">University Diploma: Artificial Intelligence in Health</div>
         <div class="cv-subtitle">Université Côte d'Azur, Nice</div>
       </div>
     </div>
@@ -140,15 +140,15 @@ slug: /cv
     <div class="cv-card">
       <div class="cv-date">2023 – 2024</div>
       <div class="cv-body">
-        <div class="cv-title">Diplôme Universitaire CESAM (Centre d'Enseignement de la Statistique à la Santé Publique)</div>
+        <div class="cv-title">University Diploma: CESAM (Centre d'Enseignement de la Statistique à la Santé Publique – Centre for Statistics Education in Public Health)</div>
         <div class="cv-subtitle">Sorbonne Université, Paris</div>
       </div>
     </div>
 
     <div class="cv-card">
-      <div class="cv-date">2015 – Ongoing</div>
+      <div class="cv-date">2015 – present</div>
       <div class="cv-body">
-        <div class="cv-title">PharmD</div>
+        <div class="cv-title">Doctor of Pharmacy (PharmD) – Hospital Pharmacy specialization</div>
         <div class="cv-subtitle">Université Grenoble Alpes, Grenoble</div>
       </div>
     </div>
