@@ -10,7 +10,7 @@ theme: bay_jekyll_theme
 header:
   pages:
     - name: CV
-      slug: /cv
+      slug: /cv/en
     - name: Research
       slug: /research
     - name: Teaching
