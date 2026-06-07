@@ -66,11 +66,11 @@ lang: fr
   }
 
   .cv-date {
-    font-size: 0.8em;
+    font-size: 0.95em;
     color: #aaa;
     white-space: nowrap;
-    min-width: 72px;
-    padding-top: 3px;
+    min-width: 90px;
+    padding-top: 0.5px;
   }
 
   .cv-body {
@@ -119,14 +119,15 @@ lang: fr
     <a class="cv-link" href="/assets/pdf/cv.pdf" target="_blank">[pdf]</a>
   </div>
 
-  <!-- ══ Education ══ -->
+  <!-- ══ Formation ══ -->
   <div class="cv-group">
-    <div class="cv-year">Education</div>
+    <div class="cv-year">Formation</div>
 
     <div class="cv-card">
       <div class="cv-date">2025 – 2026</div>
       <div class="cv-body">
-        <div class="cv-title">Master's Degree (Year 2) in Public Health: Methods and Tools for Health Data Warehouses</div>
+        <div class="cv-title">Master 2 - Santé Publique : Méthodes et Outils pour les Données des Entrepôts en Santé 
+        </div>
         <div class="cv-subtitle">Université Paris Cité, Paris</div>
       </div>
     </div>
@@ -142,7 +143,8 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2024 – 2025</div>
       <div class="cv-body">
-        <div class="cv-title">University Diploma: Artificial Intelligence in Health</div>
+        <div class="cv-title">Diplôme Universitaire : Intelligence Artificielle en Santé
+        </div>
         <div class="cv-subtitle">Université Côte d'Azur, Nice</div>
       </div>
     </div>
@@ -150,7 +152,8 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2023 – 2024</div>
       <div class="cv-body">
-        <div class="cv-title">University Diploma: CESAM (Centre for Statistics Education in Public Health)</div>
+        <div class="cv-title">Diplôme Universitaire CESAM (Centre d’Enseignement de la Statistique à la Santé Publique)
+        </div>
         <div class="cv-subtitle">Sorbonne Université, Paris</div>
       </div>
     </div>
@@ -158,25 +161,23 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2015 – present</div>
       <div class="cv-body">
-        <div class="cv-title">Doctor of Pharmacy (PharmD) – Hospital Pharmacy specialization</div>
+        <div class="cv-title">Diplôme d’Etude Spécialisée – Pharmacie Hospitalière (PharmD)</div>
         <div class="cv-subtitle">Université Grenoble Alpes, Grenoble</div>
       </div>
     </div>
 
-
-
   </div>
 
-  <!-- ══ Work Experience ══ -->
+  <!-- ══ Experiences professionnelles ══ -->
   <div class="cv-group">
-    <div class="cv-year">Work Experience</div>
+    <div class="cv-year">Experiences professionnelles</div>
 
     <div class="cv-card">
       <div class="cv-date">2022 - present</div>
       <div class="cv-body">
-        <div class="cv-title">Pharmacy resident (4<sup>th</sup> year)</div>
+        <div class="cv-title">Interne en Pharmacie (4<sup>ème</sup> année)</div>
         <div class="cv-subtitle">CHU Grenoble Alpes, Grenoble</div>
-        <div class="cv-detail">Rotations: #0 Pharmacology & Toxicology ; #1 Parenteral nutrition ; #2 Pediatric clinical pharmacy ; #3 Materiovigilance ; #4 Transplant & Pneumology clinical pharmacy ; #5 Derogatory access and retrocession ; #6 Clinical investigation ; #7-8 : Research year
+        <div class="cv-detail">Semestres: #0 Pharmacologie, Toxicologie & Pharmacogénétique ; #1 Nutrition parentérale ; #2 Pharmacie clinique - Pédiatrie ; #3 Matériovigilance ; #4 Pharmacie clinique - Pneumologie & Transplantation ; #5 Rétrocession & Accès dérogatoires ; #6 Centre d'Investigation Clinique ; #7-8 : Année Recherche
         </div>
       </div>
     </div>
@@ -184,10 +185,10 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2026</div>
       <div class="cv-body">
-        <div class="cv-title">Research internship (6 months)</div>
-        <div class="cv-subtitle">MESP team, TIMC lab, CNRS, Grenoble</div>
-        <div class="cv-detail">Subject: Artificial intelligence and big data in solid organ transplantation, balancing performance and explainability.
-        <br>Supervisors : Dr. Sébastien Chanoine, Dr. Léa Liaigre and Pr. Pierrick Bedouch
+        <div class="cv-title">Stage de recherche (6 mois)</div>
+        <div class="cv-subtitle">Equipe MESP, Laboratoire TIMC, CNRS, Grenoble</div>
+        <div class="cv-detail">Sujet: Intelligence artificielle et données massives en transplantation d’organes solides : équilibre entre performance et explicabilité
+        <br>Supervisors : Dr. Sébastien Chanoine, Dr. Léa Liaigre et Pr. Pierrick Bedouch
         </div>
       </div>
     </div>
@@ -195,9 +196,9 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2020 - 2021</div>
       <div class="cv-body">
-        <div class="cv-title">Pharmacy student</div>
+        <div class="cv-title">Externe en Pharmacie</div>
         <div class="cv-subtitle">CHU Grenoble Alpes, Grenoble</div>
-        <div class="cv-detail">Rotations: #1 Neurology ; #2 Parasitology & Mycology ; #3 Oncology ; #4 Pneumology
+        <div class="cv-detail">Trimestres: #1 Neurologie ; #2 Parasitologie-Mycologie ; #3 Oncohématologie ; #4 Pneumologie
         </div>
       </div>
     </div>
@@ -205,10 +206,10 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2019</div>
       <div class="cv-body">
-        <div class="cv-title">Research internship (4 months)</div>
-        <div class="cv-subtitle">BNI team, TIMC lab, CNRS, Grenoble</div>
-        <div class="cv-detail">Subject: Micro-concentrations of neurological biomarkers detection in micro-volumes using BACTH coupled to Aptamers
-        <br>Supervisors : Dr. Pierre Cavaillès, Dr. Claire Durmort and Dr. Audrey Le Gouellec
+        <div class="cv-title">Stage de recherche (4 mois)</div>
+        <div class="cv-subtitle">Equipe BNI, Laboratoire TIMC, CNRS, Grenoble</div>
+        <div class="cv-detail">Sujet: Micro-concentrations of neurological biomarkers detection in micro-volumes using BACTH coupled to Aptamers
+        <br>Supervisors : Dr. Pierre Cavaillès, Dr. Claire Durmort et Dr. Audrey Le Gouellec
         </div>
       </div>
     </div>
@@ -216,9 +217,9 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2018 - 2019</div>
       <div class="cv-body">
-        <div class="cv-title">Pharmacy student</div>
+        <div class="cv-title">Externe en Pharmacie</div>
         <div class="cv-subtitle">CHU Grenoble Alpes, Grenoble</div>
-        <div class="cv-detail">Central on-call Laboratory
+        <div class="cv-detail">Laboratoire Central de Garde
         </div>
       </div>
     </div>
@@ -226,40 +227,44 @@ lang: fr
     <div class="cv-card">
       <div class="cv-date">2018</div>
       <div class="cv-body">
-        <div class="cv-title">Research internship (3 months)</div>
-        <div class="cv-subtitle">TheREx team, TIMC lab, CNRS, Grenoble</div>
-        <div class="cv-detail">Subject: Chitin regulation during exposure to antifungals and Rim pathway targeting.
-        <br>Supervisors : Pr. Muriel Cornet and Dr. Delphine Aldebert
+        <div class="cv-title">Stage de recherche (3 mois)</div>
+        <div class="cv-subtitle">Equipe TheREx, Laboratoire TIMC, CNRS, Grenoble</div>
+        <div class="cv-detail">Sujet: Régulation de la chitine lors de l’exposition aux antifongiques et ciblage de la voie Rim 
+        <br>Supervisors : Pr. Muriel Cornet et Dr. Delphine Aldebert
         </div>
       </div>
     </div>
 
   </div>
 
-  <!-- ══ Awards ══ -->
+  <!-- ══ Prix & Distinctions ══ -->
   <div class="cv-group">
-    <div class="cv-year">Awards</div>
+    <div class="cv-year">Prix & Distinctions</div>
 
     <div class="cv-card">
       <div class="cv-date">2024</div>
       <div class="cv-body">
-        <div class="cv-title">Best Talk Award</div>
+        <div class="cv-title">Meilleure Communication Orale</div>
         <div class="cv-subtitle">SNPHPU, Montpellier</div>
+        <div class="cv-detail">« Systèmes de fixation de dispositifs médicaux : de l’évaluation des besoins à l’uniformisation des pratiques »
+        </div>
       </div>
     </div>
 
     <div class="cv-card">
       <div class="cv-date">2024</div>
       <div class="cv-body">
-        <div class="cv-title">Runner-up for Best Video Award</div>
+        <div class="cv-title">2<sup>ème</sup> Meilleure Vidéo - Concours Média</div>
         <div class="cv-subtitle">SFPC, Toulouse</div>
+        <div class="cv-detail">« Ecoconception des soins »
+        </div>
       </div>
     </div>
 
     <div class="cv-card">
       <div class="cv-date">2019</div>
       <div class="cv-body">
-        <div class="cv-title">Gold medal
+        <div class="cv-title">Médaille d'Or
         + 3 nominations: <br>Best diagnostics project, Best new composite part and Best software tool</div>
         <div class="cv-subtitle">iGEM, Boston (MIT)</div>
       </div>
@@ -267,49 +272,47 @@ lang: fr
 
   </div>
 
-  <!-- ══ Involvement ══ -->
+  <!-- ══ Associatif ══ -->
   <div class="cv-group">
-    <div class="cv-year">Involvement</div>
+    <div class="cv-year">Associatif</div>
 
     <div class="cv-card cv-card-group">
       <div class="cv-date">2024 - present</div>
       <div class="cv-body">
-        <div class="cv-title">President (hospital pharmacy)</div>
+        <div class="cv-title">Président (pharmacie hospitalière)</div>
       </div>
     </div>
 
     <div class="cv-card">
       <div class="cv-date">2023 - 2024</div>
       <div class="cv-body">
-        <div class="cv-title">Vice-President (hospital pharmacy)</div>
-        <div class="cv-subtitle">AIPBG - Grenoble Association of Pharmacy and Biology Residents</div>
+        <div class="cv-title">Vice-Président (pharmacie hospitalière)</div>
+        <div class="cv-subtitle">AIPBG - Association des Internes en Pharmacie et Biologie de Grenoble</div>
       </div>
     </div>
 
     <div class="cv-card cv-card-group">
       <div class="cv-date">2023 - 2024</div>
       <div class="cv-body">
-        <div class="cv-title">President</div>
+        <div class="cv-title">Président</div>
       </div>
     </div>
 
     <div class="cv-card">
       <div class="cv-date">2022 - 2023</div>
       <div class="cv-body">
-        <div class="cv-title">Vice-President</div>
-        <div class="cv-subtitle">iPharma - National tutoring program: Pharmacy residency competitive exam</div>
+        <div class="cv-title">Vice-Président</div>
+        <div class="cv-subtitle">iPharma - Tutorat national : Concours de l'internat en pharmacie</div>
       </div>
     </div>
 
     <div class="cv-card">
       <div class="cv-date">2019 – 2020</div>
       <div class="cv-body">
-        <div class="cv-title">Secretary</div>
+        <div class="cv-title">Secrétaire</div>
         <div class="cv-subtitle">iGEM Grenoble - international Genetically Engineered Machine competition</div>
       </div>
     </div>
 
-
   </div>
-
 </div>

@@ -66,11 +66,11 @@ lang: en
   }
 
   .cv-date {
-    font-size: 0.8em;
+    font-size: 0.95em;
     color: #aaa;
     white-space: nowrap;
-    min-width: 72px;
-    padding-top: 3px;
+    min-width: 90px;
+    padding-top: 0.5px;
   }
 
   .cv-body {
@@ -162,8 +162,6 @@ lang: en
         <div class="cv-subtitle">Université Grenoble Alpes, Grenoble</div>
       </div>
     </div>
-
-
 
   </div>
 
