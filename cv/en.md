@@ -42,7 +42,7 @@ lang: en
     color: #111;
     margin-bottom: 0px;
     padding-bottom: 6px;
-    border-bottom: 1px solid #555;
+    border-bottom: 1px solid #999;
   }
 
   .cv-card {
