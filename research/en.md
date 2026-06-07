@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Research
-slug: /research
+permalink: /research/en/
+lang: en
 ---
 
 <style>
@@ -182,7 +183,7 @@ slug: /research
 
     <div class="pub-card" data-type="poster">
       <div class="pub-title">Palatability of Medicines : A Key Issue to Integrate into Pediatric Pharmaceutical Care</div>
-      <div class="pub-authors"> Mathieu M ,<span class="me">Jacquet M</span>, Allenet B, Bedouch P, Chanoine S</div>
+      <div class="pub-authors"> Mathieu M, <span class="me">Jacquet M</span>, Allenet B, Bedouch P, Chanoine S</div>
       <div class="pub-meta-row">
         <span class="pub-type-badge">poster</span>
         <span class="pub-venue">ESCP (Grenoble)</span>

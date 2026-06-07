@@ -12,7 +12,7 @@ header:
     - name: CV
       slug: /cv/en
     - name: Research
-      slug: /research
+      slug: /research/en
     - name: Teaching
       slug: /teaching
     - name: Blog

@@ -1,10 +1,16 @@
 <header class="site-header">
   <div class="wrapper">
+    {% assign is_french = false %}
     {% if page.url contains '/fr' %}
+      {% assign is_french = true %}
+    {% endif %}
+
+    {% if is_french %}
       {% assign home_url = '/fr/' %}
     {% else %}
       {% assign home_url = '/' %}
     {% endif %}
+
     <a class="site-title" href="{{ home_url | prepend: site.baseurl | prepend: site.url }}">
       <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
     </a>
@@ -14,7 +20,7 @@
         {% for p in site.header.pages %}
           {% if p.slug and p.slug != "" and p.slug != nil %}
             {% assign page_link = p.slug %}
-            {% if page.url contains '/fr' %}
+            {% if is_french %}
               {% assign page_link = p.slug | replace: '/en', '/fr' %}
             {% endif %}
           {% else %}
@@ -36,7 +42,7 @@
             <a href="/">EN</a>
             <span class="lang-sep">/</span>
             <span class="lang-active">FR</span>
-          {% elsif current contains '/fr' %}
+          {% elsif is_french %}
             {% assign en_url = current | replace: '/fr', '/en' %}
             <a href="{{ en_url }}">EN</a>
             <span class="lang-sep">/</span>
