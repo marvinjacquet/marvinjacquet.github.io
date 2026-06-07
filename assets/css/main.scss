@@ -17,3 +17,32 @@
 @use "blog";
 @use "post";
 @use "not_found";
+
+.site-nav .lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 20px;
+  font-family: Charter, Georgia, serif;
+  font-size: 0.9em;
+  line-height: 56px;
+}
+
+.site-nav .lang-toggle a {
+  color: #aaa;
+  text-decoration: none;
+  transition: color 0.15s;
+  line-height: normal;
+}
+
+.site-nav .lang-toggle a:hover {
+  color: #555;
+}
+
+.site-nav .lang-toggle a.lang-active {
+  color: #111;
+}
+
+.site-nav .lang-sep {
+  color: #e0e0e0;
+}

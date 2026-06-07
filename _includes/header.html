@@ -3,22 +3,28 @@
     <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
       <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
     </a>
-
     <nav class="site-nav">
       <a href="#" class="menu-icon"></a>
-
       <div class="menu">
-        {% for page in site.header.pages %}
-          {% if page.slug and page.slug != "" and page.slug != nil %}
-            {% assign page_link = page.slug %}
+        {% for p in site.header.pages %}
+          {% if p.slug and p.slug != "" and p.slug != nil %}
+            {% assign page_link = p.slug %}
           {% else %}
-            {% assign page_link = "/" | append: page.name | downcase %}
+            {% assign page_link = "/" | append: p.name | downcase %}
           {% endif %}
           {% assign page_link = page_link | absolute_url %}
           <a class="page-link" href="{{ page_link }}">
-            {{- page.name -}}
+            {{- p.name -}}
           </a>
         {% endfor %}
+
+        {% if page.lang %}
+        <span class="lang-toggle">
+          <a href="{{ page.lang-alt }}" {% if page.lang == 'en' %}class="lang-active"{% endif %}>EN</a>
+          <span class="lang-sep">/</span>
+          <a href="{{ page.lang-alt }}" {% if page.lang == 'fr' %}class="lang-active"{% endif %}>FR</a>
+        </span>
+        {% endif %}
       </div>
     </nav>
   </div>
