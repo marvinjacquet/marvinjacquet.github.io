@@ -25,7 +25,6 @@
   border-left: 1px solid #e0e0e0;
   padding-left: 20px;
   margin-left: 12px;
-  font-family: Charter, Georgia, serif;
   font-size: 0.9em;
   line-height: 28px;
 }
@@ -55,7 +54,7 @@
   color: #e0e0e0;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   .site-nav .lang-toggle {
     display: block;
     border-left: none;
