@@ -1,6 +1,11 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" href="{{ "" | prepend: site.baseurl | prepend: site.url }}/">
+    {% if page.url contains '/fr' %}
+      {% assign home_url = '/fr/' %}
+    {% else %}
+      {% assign home_url = '/' %}
+    {% endif %}
+    <a class="site-title" href="{{ home_url | prepend: site.baseurl | prepend: site.url }}">
       <img src="{{ "/assets/img/title.png" | absolute_url }}" alt="{{ site.title }}" />
     </a>
     <nav class="site-nav">
@@ -9,6 +14,9 @@
         {% for p in site.header.pages %}
           {% if p.slug and p.slug != "" and p.slug != nil %}
             {% assign page_link = p.slug %}
+            {% if page.url contains '/fr' %}
+              {% assign page_link = p.slug | replace: '/en', '/fr' %}
+            {% endif %}
           {% else %}
             {% assign page_link = "/" | append: p.name | downcase %}
           {% endif %}
