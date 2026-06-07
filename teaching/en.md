@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching
-permalink: /teaching/en/
+permalink: /teaching/en
 lang: en
 ---
 
