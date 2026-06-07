@@ -39,8 +39,14 @@
   color: #555;
 }
 
-.site-nav .lang-toggle a.lang-active {
+.site-nav .lang-toggle .lang-active {
   color: #111;
+  line-height: normal;
+}
+
+.site-nav .lang-toggle .lang-inactive {
+  color: #aaa;
+  line-height: normal;
 }
 
 .site-nav .lang-sep {

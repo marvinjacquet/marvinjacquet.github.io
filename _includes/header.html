@@ -18,13 +18,22 @@
           </a>
         {% endfor %}
 
-        {% if page.lang %}
         <span class="lang-toggle">
-          <a href="{{ page.lang-alt }}" {% if page.lang == 'en' %}class="lang-active"{% endif %}>EN</a>
-          <span class="lang-sep">/</span>
-          <a href="{{ page.lang-alt }}" {% if page.lang == 'fr' %}class="lang-active"{% endif %}>FR</a>
+          {% if page.lang == 'en' %}
+            <span class="lang-active">EN</span>
+            <span class="lang-sep">/</span>
+            <a href="{{ page.lang-alt }}">FR</a>
+          {% elsif page.lang == 'fr' %}
+            <a href="{{ page.lang-alt }}">EN</a>
+            <span class="lang-sep">/</span>
+            <span class="lang-active">FR</span>
+          {% else %}
+            <span class="lang-active">EN</span>
+            <span class="lang-sep">/</span>
+            <span class="lang-inactive">FR</span>
+          {% endif %}
         </span>
-        {% endif %}
+
       </div>
     </nav>
   </div>
