@@ -176,6 +176,7 @@ lang: fr
     <div class="teaching-card">
       <div class="teaching-title">
         Cas cliniques de Pédiatrie
+        <br> VRS et Asthme
         <span class="teaching-badge">td</span>
       </div>
       <div class="teaching-meta">
