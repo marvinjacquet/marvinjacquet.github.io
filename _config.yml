@@ -1,0 +1,62 @@
+title: "Marvin Jacquet"
+description: >-
+  Personal academic website of Marvin Jacquet, pharmacy resident and
+  biostatistics student at CHU Grenoble Alpes / TIMC lab.
+  
+baseurl: ""
+url: "https://marvinjacquet.github.io"
+og_image: /assets/img/profile-pic.jpg
+theme: bay_jekyll_theme
+
+header:
+  pages:
+    - name: CV
+      slug: /cv/en/
+    - name: Research
+      slug: /research/en/
+    - name: Teaching
+      slug: /teaching/en/
+    - name: Blog
+      slug: /blog/en/
+
+footer:
+  contact:
+    - type: email
+      name: Email
+      value: firstname.lastname[at]proton.me
+  follow:
+    - type: researchgate
+      name: Researchgate
+      link: https://www.researchgate.net/profile/Marvin-Jacquet
+    - type: github
+      name: GitHub
+      link: https://github.com/marvinjacquet/
+    - type: orcid
+      name: ORCID
+      link: https://orcid.org/0000-0002-9890-7908
+    - type: linkedin
+      name: LinkedIn
+      link: https://www.linkedin.com/in/marvin-jacquet-2059a8182/
+  projects:
+  - name: PHARE
+    link: https://marvinjacquet.github.io/phare/
+    icon: /assets/img/icons/phare.png
+
+# Build settings
+markdown: kramdown
+sass:
+    style: :compressed
+plugins:
+  - jekyll-feed
+
+# Excluded items
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

@@ -1,0 +1,241 @@
+// ─── Shared page layout ───────────────────────────────────────────────────────
+
+.page-section {
+  max-width: 720px;
+  margin: 0 auto;
+  padding-bottom: 60px;
+}
+
+// ─── Shared group / year heading ──────────────────────────────────────────────
+
+.section-heading {
+  font-size: 0.95em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #000000;
+  margin-bottom: 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #ddd;
+}
+
+.section-group {
+  margin-bottom: 36px;
+}
+
+// ─── Landing page ──────────────────────────────────────────────
+
+.home .page-content p {
+  font-size: 1.05em;
+}
+
+// ─── Shared card ──────────────────────────────────────────────────────────────
+
+.item-card {
+  padding: 12px 0;
+  border-bottom: 1px solid #ddd;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+// ─── Shared card title ────────────────────────────────────────────────────────
+
+.item-title {
+  font-size: 1.1em;
+  font-weight: 400;
+  line-height: 1.45;
+  margin-bottom: 4px;
+  color: #000000;
+}
+
+// ─── Shared subtitle / authors ────────────────────────────────────────────────
+
+.item-subtitle {
+  font-size: 0.95em;
+  font-style: italic;
+  color: #777;
+  margin-bottom: 4px;
+}
+
+.item-authors {
+  font-size: 0.95em;
+  color: #777;
+  margin-bottom: 6px;
+  line-height: 1.5;
+
+  .me {
+    color: #000000;
+    font-weight: 600;
+  }
+}
+
+// ─── Shared meta row ──────────────────────────────────────────────────────────
+
+.item-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-bottom: 2px;
+}
+
+// ─── Shared badge ─────────────────────────────────────────────────────────────
+
+.item-badge {
+  font-size: 0.8em;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #777;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 2px 6px;
+  white-space: nowrap;
+}
+
+// ─── Shared venue / years ─────────────────────────────────────────────────────
+
+.item-venue {
+  font-size: 0.95em;
+  font-style: italic;
+  color: #777;
+  flex: 1;
+}
+
+.item-years {
+  font-size: 0.95em;
+  color: #777;
+  flex: 1;
+}
+
+// ─── Shared link ──────────────────────────────────────────────────────────────
+
+.item-link {
+  font-size: 0.8em;
+  color: #fff;
+  background: #777;
+  border-radius: 20px;
+  padding: 2px 9px;
+  letter-spacing: 0.03em;
+}
+
+.item-link:hover {
+  background: #000000;
+  color: #fff;
+}
+
+.item-links {
+  display: flex;
+  gap: 10px;
+  margin-left: auto;
+}
+
+// ─── CV-specific: date column ─────────────────────────────────────────────────
+
+.cv-card {
+  display: flex;
+  gap: 16px;
+
+  &.cv-card-group {
+    padding-bottom: 0;
+    border-bottom: none;
+
+    & + .cv-card {
+      padding-top: 0;
+    }
+  }
+}
+
+.cv-date {
+  font-size: 0.95em;
+  color: #777;
+  white-space: nowrap;
+  min-width: 90px;
+  padding-top: 0.5px;
+}
+
+.cv-body {
+  flex: 1;
+}
+
+.cv-detail {
+  font-size: 0.95em;
+  color: #777;
+  line-height: 1.5;
+}
+
+.cv-download {
+  margin-bottom: 40px;
+}
+
+// ─── Research filter bar ──────────────────────────────────────────────────────
+
+.filter-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.filter-btn {
+  font-family: inherit;
+  font-size: 0.8em;
+  font-weight: 400;
+  letter-spacing: 0.05em;
+  color: #777;
+  background: none;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 4px 6px;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: all 0.15s;
+  text-transform: uppercase;
+
+  &:hover {
+    border-color: #777;
+    color: #000000;
+  }
+
+  &.active {
+    border-color: #000000;
+    color: #000000;
+  }
+}
+
+// ─── Teaching: title flex layout ──────────────────────────────────────────────
+
+.teaching-title {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.teaching-title-row {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+// ─── Hidden utility (used by filter JS) ───────────────────────────────────────
+
+.hidden {
+  display: none;
+}
+
+// ─── Responsive ───────────────────────────────────────────────────────────────
+
+@media (max-width: 600px) {
+  .item-links {
+    margin-left: 0;
+    margin-top: 4px;
+  }
+
+  .item-meta {
+    gap: 6px;
+  }
+}

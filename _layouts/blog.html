@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="blog">
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+
+          <div class="blog-post-list">
+            {% assign lang = page.lang | default: "en" %}
+            {% assign posts_by_lang = site.posts | where: "lang", lang | where_exp: "post", "post.draft != true" %}
+            {% assign categories = posts_by_lang | map: "category" | uniq | sort %}
+
+            {% for category in categories %}
+              <div class="blog-category-group">
+                <div class="section-heading">{{ category }}</div>
+
+                {% assign posts_in_cat = posts_by_lang | where: "category", category %}
+                {% for post in posts_in_cat %}
+                  <div class="blog-post-item">
+                    <span class="blog-post-date">{{ post.date | date: "%-d %b %Y" }}</span>
+                    <a href="{{ post.url | replace:'.html','' | prepend: site.baseurl }}" class="blog-post-title">
+                      {{- post.title -}}
+                    </a>
+                  </div>
+                {% endfor %}
+
+              </div>
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+    {% include foot.html %}
+  </body>
+</html>

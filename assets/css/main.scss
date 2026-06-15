@@ -1,0 +1,71 @@
+---
+# Only the main Sass file needs Front Matter
+---
+
+@charset "utf-8";
+
+@use "variables" with (
+  $base-url: "{{ site.baseurl }}"
+);
+@use "mixins";
+@use "extends";
+
+@use "base";
+@use "layout";
+@use "site";
+@use "blog";
+@use "post";
+@use "not_found";
+@use "components";
+
+.site-nav .lang-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  border-left: 1px solid #e0e0e0;
+  padding-left: 20px;
+  margin-left: 12px;
+  font-size: 0.9em;
+  line-height: 28px;
+}
+
+.site-nav .lang-toggle a {
+  color: #aaa;
+  text-decoration: none;
+  transition: color 0.15s;
+  line-height: normal;
+}
+
+.site-nav .lang-toggle a:hover {
+  color: #555;
+}
+
+.site-nav .lang-toggle .lang-active {
+  color: #111;
+  line-height: normal;
+}
+
+.site-nav .lang-toggle .lang-inactive {
+  color: #aaa;
+  line-height: normal;
+}
+
+.site-nav .lang-sep {
+  color: #e0e0e0;
+}
+
+@media (max-width: 768px) {
+  .site-nav .lang-toggle {
+    display: block;
+    border-left: none;
+    border-top: 1px solid #e0e0e0;
+    padding: 6px 16px;
+    margin-left: 0;
+    line-height: normal;
+    text-align: right;
+    justify-content: flex-end;
+  }
+  .site-nav .menu {
+    min-width: 0;
+  }
+}

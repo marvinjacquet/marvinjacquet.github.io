@@ -1,0 +1,35 @@
+@use "variables" as variables;
+@use "mixins" as mixins;
+
+.blog-post-list {
+  .blog-post-date {
+    width: 6em;
+    color: #999;
+    display: block;
+    float: left;
+
+    @include mixins.media-query(variables.$on-mobile) {
+      display: block;
+      float: none;
+      color: #999;
+      font-size: 11px;
+      margin-top: 14px;
+    }
+  }
+
+  .blog-post-title {
+    font-size: 100%;
+    letter-spacing: normal;
+  }
+}
+
+.blog-category-group {
+  margin-bottom: 32px;
+}
+
+.blog-post-item {
+  padding: 6px 0;
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+}
