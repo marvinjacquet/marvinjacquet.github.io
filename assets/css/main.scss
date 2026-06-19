@@ -28,32 +28,28 @@
   font-size: 0.9em;
   line-height: 28px;
 }
-
 .site-nav .lang-toggle a {
   color: #aaa;
   text-decoration: none;
   transition: color 0.15s;
   line-height: normal;
 }
-
 .site-nav .lang-toggle a:hover {
-  color: #555;
+  color: #2e6b4f;
 }
-
 .site-nav .lang-toggle .lang-active {
-  color: #111;
+  color: #2e6b4f;
+  font-weight: 600;
   line-height: normal;
 }
-
 .site-nav .lang-toggle .lang-inactive {
   color: #aaa;
+  font-weight: 400;
   line-height: normal;
 }
-
 .site-nav .lang-sep {
   color: #e0e0e0;
 }
-
 @media (max-width: 768px) {
   .site-nav .lang-toggle {
     display: block;
@@ -67,5 +63,28 @@
   }
   .site-nav .menu {
     min-width: 0;
+  }
+}
+
+// ─── Global hyperlink color override ──────────────────────────────────────────
+
+a {
+  color: #2e6b4f;
+
+  &:hover {
+    color: #1f4d38;
+  }
+
+  &:visited {
+    color: #2e6b4f;
+  }
+}
+
+// ─── Active nav link  ───────────────────────────────────────────
+
+.site-nav .page-link {
+  &.active {
+    color: #2e6b4f;
+    font-weight: 600;
   }
 }

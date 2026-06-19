@@ -55,28 +55,23 @@
   }
 }
 
-#wechat-widget {
-  display: none;
-  position: absolute;
-  background: #fff;
-  border: #ddd 1px solid;
-  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.25);
+// ─── Footer social links: hyperlink color override ───────────────────────────
+.footer-col {
+  .social-links {
+    .social-link {
+      a,
+      .email-link-cloaked {
+        color: #2e6b4f;
+        cursor: pointer;
 
-  padding: 24px;
-  text-align: center;
+        &:hover {
+          color: #1f4d38;
+        }
 
-  p {
-    font-size: 11px;
-    line-height: 16px;
-    font-family: Helvetica, sans-serif;
-    width: 170px;
-    margin: 0 auto;
-    margin-bottom: 14px;
-  }
-
-  #qr-code {
-    width: 160px;
-    height: 160px;
-    border: none;
+        &:visited {
+          color: #2e6b4f;
+        }
+      }
+    }
   }
 }
