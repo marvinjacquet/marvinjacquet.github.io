@@ -16,12 +16,13 @@ lang: fr
         <span class="teaching-title-row">
           <span class="item-badge">td</span> Cas cliniques
         </span>
+          <span class="item-badge">examen</span> Soutenances
       </div>
       <div class="item-meta">
         <span class="item-subtitle">Université Grenoble Alpes, Grenoble</span>
       </div>
       <div class="item-meta">
-        <span class="item-years">37h30 │ 2024, 2025, 2026</span>
+        <span class="item-years">37h30 + 7h │ 2024, 2025, 2026</span>
       </div>
     </div>
   </div>

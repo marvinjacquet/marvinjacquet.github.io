@@ -16,12 +16,13 @@ lang: en
           <span class="teaching-title-row">
             <span class="item-badge">tutorial</span> Clinical Case Studies
           </span>
+            <span class="item-badge">exam</span> Final Defense
         </div>
         <div class="item-meta">
           <span class="item-subtitle">Université Grenoble Alpes, Grenoble</span>
         </div>
         <div class="item-meta">
-          <span class="item-years">37h30 │ 2024, 2025, 2026</span>
+          <span class="item-years">37h30 + 7h │ 2024, 2025, 2026</span>
         </div>
       </div>
   </div>
@@ -72,11 +73,11 @@ lang: en
       <div class="item-card">
         <div class="item-title teaching-title">
           <span class="teaching-title-row">
-            <span class="item-badge">td</span> Pediatrics: Dosing and Administration
+            <span class="item-badge">tutorial</span> Pediatrics: Dosing and Administration
             <a class="item-link" href="/assets/pdf/teaching/pediatrie_administration.pdf" target="_blank">PDF</a>
           </span>
           <span class="teaching-title-row">
-            <span class="item-badge">td</span> Pediatrics: RSV and Asthma
+            <span class="item-badge">tutorial</span> Pediatrics: RSV and Asthma
             <a class="item-link" href="/assets/pdf/teaching/pediatrie_vrs_asthme.pdf" target="_blank">PDF</a>
           </span>
       </div>

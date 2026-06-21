@@ -61,7 +61,6 @@
     position: absolute;
     top: 12px;
     right: 24px;
-
     border: 1px solid variables.$color-grey-light;
     border-radius: 5px;
     text-align: right;
@@ -75,7 +74,6 @@
       line-height: 0;
       padding-top: 4px;
       text-align: center;
-
       background: variables.$color-background url(variables.$base-url + "/assets/img/menu.png") 6px 4px no-repeat;
       background-size: 26px 26px;
     }
@@ -131,7 +129,7 @@
 }
 
 .footer-col-2 {
-  flex: 1; 
+  flex: 1;
 }
 
 .footer-col-3 {
@@ -146,8 +144,36 @@
   .footer-col-wrapper {
     flex-direction: column;
   }
+
   .footer-col {
     width: 50%;
+  }
+
+  // ─── Mobile footer fixes ──────────────────────────────────────────────────
+  // Fixes: PROJECTS column drifting center/right due to margin-left: auto,
+  // "Researchgate" text wrapping mid-word, and follow-links 2-column squeeze.
+
+  .footer-col-3 {
+    margin-left: 0;
+  }
+
+  .footer-col {
+    width: 100%;
+  }
+
+  .footer-col-wrapper {
+    text-align: left;
+  }
+
+  .social-links .social-link a,
+  .social-links .social-link span {
+    word-break: normal;
+    overflow-wrap: normal;
+    white-space: nowrap;
+  }
+
+  .follow-links > .social-link {
+    flex: 0 0 100%;
   }
 }
 

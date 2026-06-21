@@ -16,7 +16,7 @@
   color: #2e6b4f;
   margin-bottom: 0;
   padding-bottom: 6px;
-  border-bottom: 1px solid #2e6b4f;
+  border-bottom: 1.5px solid #2e6b4f;
 }
 
 .section-group {
@@ -84,7 +84,7 @@
 // ─── Shared badge ─────────────────────────────────────────────────────────────
 
 .item-badge {
-  font-size: 0.8em;
+  font-size: 12px;
   font-weight: 400;
   letter-spacing: 0.05em;
   text-transform: uppercase;
@@ -113,12 +113,17 @@
 // ─── Shared link ──────────────────────────────────────────────────────────────
 
 .item-link {
-  font-size: 0.8em;
+  display: inline-block;
+  font-size: 12px;
+  line-height: 1.4;
   color: #fff;
   background: #2e6b4f;
   border-radius: 20px;
   padding: 2px 9px;
   letter-spacing: 0.03em;
+  min-width: 1.5em;
+  min-height: 1em;
+  text-align: center;
 }
 
 .item-link:hover {

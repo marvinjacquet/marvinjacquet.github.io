@@ -3,6 +3,8 @@
     {% assign is_french = false %}
     {% if page.url contains '/fr' %}
       {% assign is_french = true %}
+    {% elsif page.lang == 'fr' %}
+      {% assign is_french = true %}
     {% endif %}
     {% if is_french %}
       {% assign home_url = '/fr/' %}
